@@ -47,4 +47,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gos44/gos44/output/snake.svg" alt="Snake animation" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gos44&theme=dracula" alt="GitHub Contribution Graph" />
