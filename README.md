@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="./fotoPerfil.jpeg" alt="Profile Picture" />
+<img align="right" height="150" src="fotoPerfil.jpeg" alt="Profile Picture" />
 
 ###
 
