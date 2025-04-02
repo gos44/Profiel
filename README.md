@@ -47,4 +47,4 @@
 
 <br clear="both">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gos44&theme=dracula" alt="GitHub Contribution Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gos44&theme=dracula" alt="GitHub Contribution Graph" />
